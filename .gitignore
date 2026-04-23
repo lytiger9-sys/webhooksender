@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+
+*.spec
+
+data/session.dat
+data/config.json
+
+.DS_Store

@@ -1,0 +1,1 @@
+"""HS license backend package."""
